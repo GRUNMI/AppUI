@@ -1,0 +1,431 @@
+2018-10-17 17:00:54,609 - INFO----  当前运行文件：E:\PycharmProjects\AppAuto\PageObject\CommonElement.py
+2018-10-17 17:00:55,638 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session {"desiredCapabilities": {"platformName": "Android", "platformVersion": "7.0", "deviceName": "0123456789ABCDEF", "appPackage": "com.seuic.kysy", "appActivity": "com.seuic.kysy.activitys.LoginActivity", "app": "E:\\PycharmProjects\\AppAuto\\App\\6.18.0928.5.apk", "noRest": true, "noSign": true}, "requiredCapabilities": {}}
+2018-10-17 17:01:13,177 - DEBUG----  Finished Request
+2018-10-17 17:01:13,178 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/5f70e80b-9a29-4c03-946d-625a89415856/timeouts/implicit_wait {"ms": 20000.0, "sessionId": "5f70e80b-9a29-4c03-946d-625a89415856"}
+2018-10-17 17:01:13,184 - DEBUG----  Finished Request
+2018-10-17 17:01:13,185 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/5f70e80b-9a29-4c03-946d-625a89415856/element {"using": "id", "value": "com.seuic.kysy:id/btn_setting", "sessionId": "5f70e80b-9a29-4c03-946d-625a89415856"}
+2018-10-17 17:01:13,673 - DEBUG----  Finished Request
+2018-10-17 17:01:13,674 - DEBUG----  GET http://127.0.0.1:4723/wd/hub/session/5f70e80b-9a29-4c03-946d-625a89415856/element/1/displayed {"id": "1", "sessionId": "5f70e80b-9a29-4c03-946d-625a89415856"}
+2018-10-17 17:01:13,710 - DEBUG----  Finished Request
+2018-10-17 17:01:13,711 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/5f70e80b-9a29-4c03-946d-625a89415856/element/1/click {"id": "1", "sessionId": "5f70e80b-9a29-4c03-946d-625a89415856"}
+2018-10-17 17:01:14,006 - DEBUG----  Finished Request
+2018-10-17 17:01:14,006 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/5f70e80b-9a29-4c03-946d-625a89415856/element {"using": "id", "value": "com.seuic.kysy:id/airport", "sessionId": "5f70e80b-9a29-4c03-946d-625a89415856"}
+2018-10-17 17:01:14,550 - DEBUG----  Finished Request
+2018-10-17 17:01:14,551 - DEBUG----  GET http://127.0.0.1:4723/wd/hub/session/5f70e80b-9a29-4c03-946d-625a89415856/element/2/displayed {"id": "2", "sessionId": "5f70e80b-9a29-4c03-946d-625a89415856"}
+2018-10-17 17:01:14,567 - DEBUG----  Finished Request
+2018-10-17 17:01:14,568 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/5f70e80b-9a29-4c03-946d-625a89415856/element/2/click {"id": "2", "sessionId": "5f70e80b-9a29-4c03-946d-625a89415856"}
+2018-10-17 17:01:14,736 - DEBUG----  Finished Request
+2018-10-17 17:01:14,736 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/5f70e80b-9a29-4c03-946d-625a89415856/element {"using": "id", "value": "com.seuic.kysy:id/rb_wifi", "sessionId": "5f70e80b-9a29-4c03-946d-625a89415856"}
+2018-10-17 17:01:15,450 - DEBUG----  Finished Request
+2018-10-17 17:01:15,450 - DEBUG----  GET http://127.0.0.1:4723/wd/hub/session/5f70e80b-9a29-4c03-946d-625a89415856/element/3/displayed {"id": "3", "sessionId": "5f70e80b-9a29-4c03-946d-625a89415856"}
+2018-10-17 17:01:15,469 - DEBUG----  Finished Request
+2018-10-17 17:01:15,469 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/5f70e80b-9a29-4c03-946d-625a89415856/element/3/click {"id": "3", "sessionId": "5f70e80b-9a29-4c03-946d-625a89415856"}
+2018-10-17 17:01:18,595 - DEBUG----  Finished Request
+2018-10-17 17:01:18,596 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/5f70e80b-9a29-4c03-946d-625a89415856/element {"using": "id", "value": "com.seuic.kysy:id/rb_backup", "sessionId": "5f70e80b-9a29-4c03-946d-625a89415856"}
+2018-10-17 17:01:18,623 - DEBUG----  Finished Request
+2018-10-17 17:01:18,624 - DEBUG----  GET http://127.0.0.1:4723/wd/hub/session/5f70e80b-9a29-4c03-946d-625a89415856/element/4/displayed {"id": "4", "sessionId": "5f70e80b-9a29-4c03-946d-625a89415856"}
+2018-10-17 17:01:18,646 - DEBUG----  Finished Request
+2018-10-17 17:01:18,646 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/5f70e80b-9a29-4c03-946d-625a89415856/element/4/click {"id": "4", "sessionId": "5f70e80b-9a29-4c03-946d-625a89415856"}
+2018-10-17 17:01:18,808 - DEBUG----  Finished Request
+2018-10-17 17:01:18,808 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/5f70e80b-9a29-4c03-946d-625a89415856/element {"using": "id", "value": "com.seuic.kysy:id/btn_save", "sessionId": "5f70e80b-9a29-4c03-946d-625a89415856"}
+2018-10-17 17:01:19,299 - DEBUG----  Finished Request
+2018-10-17 17:01:19,299 - DEBUG----  GET http://127.0.0.1:4723/wd/hub/session/5f70e80b-9a29-4c03-946d-625a89415856/element/5/displayed {"id": "5", "sessionId": "5f70e80b-9a29-4c03-946d-625a89415856"}
+2018-10-17 17:01:19,352 - DEBUG----  Finished Request
+2018-10-17 17:01:19,352 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/5f70e80b-9a29-4c03-946d-625a89415856/element/5/click {"id": "5", "sessionId": "5f70e80b-9a29-4c03-946d-625a89415856"}
+2018-10-17 17:01:22,480 - DEBUG----  Finished Request
+2018-10-17 17:01:22,481 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/5f70e80b-9a29-4c03-946d-625a89415856/element {"using": "id", "value": "com.seuic.kysy:id/edt_username", "sessionId": "5f70e80b-9a29-4c03-946d-625a89415856"}
+2018-10-17 17:01:22,505 - DEBUG----  Finished Request
+2018-10-17 17:01:22,505 - DEBUG----  GET http://127.0.0.1:4723/wd/hub/session/5f70e80b-9a29-4c03-946d-625a89415856/element/6/displayed {"id": "6", "sessionId": "5f70e80b-9a29-4c03-946d-625a89415856"}
+2018-10-17 17:01:22,528 - DEBUG----  Finished Request
+2018-10-17 17:01:22,529 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/5f70e80b-9a29-4c03-946d-625a89415856/element/6/value {"value": ["0", "6", "6", "5", "9", "7"], "id": "6", "sessionId": "5f70e80b-9a29-4c03-946d-625a89415856"}
+2018-10-17 17:01:28,621 - DEBUG----  Finished Request
+2018-10-17 17:01:28,621 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/5f70e80b-9a29-4c03-946d-625a89415856/element {"using": "id", "value": "com.seuic.kysy:id/edt_pwd", "sessionId": "5f70e80b-9a29-4c03-946d-625a89415856"}
+2018-10-17 17:01:29,115 - DEBUG----  Finished Request
+2018-10-17 17:01:29,116 - DEBUG----  GET http://127.0.0.1:4723/wd/hub/session/5f70e80b-9a29-4c03-946d-625a89415856/element/7/displayed {"id": "7", "sessionId": "5f70e80b-9a29-4c03-946d-625a89415856"}
+2018-10-17 17:01:29,174 - DEBUG----  Finished Request
+2018-10-17 17:01:29,175 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/5f70e80b-9a29-4c03-946d-625a89415856/element/7/value {"value": ["1", "1", "1", "1", "1", "1"], "id": "7", "sessionId": "5f70e80b-9a29-4c03-946d-625a89415856"}
+2018-10-17 17:01:34,146 - DEBUG----  Finished Request
+2018-10-17 17:01:34,146 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/5f70e80b-9a29-4c03-946d-625a89415856/element {"using": "id", "value": "com.seuic.kysy:id/btn_login", "sessionId": "5f70e80b-9a29-4c03-946d-625a89415856"}
+2018-10-17 17:01:34,699 - DEBUG----  Finished Request
+2018-10-17 17:01:34,699 - DEBUG----  GET http://127.0.0.1:4723/wd/hub/session/5f70e80b-9a29-4c03-946d-625a89415856/element/8/displayed {"id": "8", "sessionId": "5f70e80b-9a29-4c03-946d-625a89415856"}
+2018-10-17 17:01:34,733 - DEBUG----  Finished Request
+2018-10-17 17:01:34,733 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/5f70e80b-9a29-4c03-946d-625a89415856/element/8/click {"id": "8", "sessionId": "5f70e80b-9a29-4c03-946d-625a89415856"}
+2018-10-17 17:01:35,129 - DEBUG----  Finished Request
+2018-10-17 17:01:35,130 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/5f70e80b-9a29-4c03-946d-625a89415856/element {"using": "id", "value": "//android.widget.Button[@text='\u4e1a\u52a1\u533a']", "sessionId": "5f70e80b-9a29-4c03-946d-625a89415856"}
+2018-10-17 17:01:55,529 - DEBUG----  Finished Request
+2018-10-17 17:01:56,029 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/5f70e80b-9a29-4c03-946d-625a89415856/appium/app/close {"sessionId": "5f70e80b-9a29-4c03-946d-625a89415856"}
+2018-10-17 17:01:57,323 - DEBUG----  Finished Request
+2018-10-17 17:01:57,324 - DEBUG----  DELETE http://127.0.0.1:4723/wd/hub/session/5f70e80b-9a29-4c03-946d-625a89415856 {"sessionId": "5f70e80b-9a29-4c03-946d-625a89415856"}
+2018-10-17 17:02:01,128 - DEBUG----  Finished Request
+2018-10-17 17:04:41,596 - INFO----  当前运行文件：E:\PycharmProjects\AppAuto\PageObject\CommonElement.py
+2018-10-17 17:04:42,629 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session {"desiredCapabilities": {"platformName": "Android", "platformVersion": "7.0", "deviceName": "0123456789ABCDEF", "appPackage": "com.seuic.kysy", "appActivity": "com.seuic.kysy.activitys.LoginActivity", "app": "E:\\PycharmProjects\\AppAuto\\App\\6.18.0928.5.apk", "noRest": true, "noSign": true}, "requiredCapabilities": {}}
+2018-10-17 17:04:59,916 - DEBUG----  Finished Request
+2018-10-17 17:04:59,917 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/e17f103f-61c9-484f-842b-25d9b9baa949/timeouts/implicit_wait {"ms": 20000.0, "sessionId": "e17f103f-61c9-484f-842b-25d9b9baa949"}
+2018-10-17 17:04:59,930 - DEBUG----  Finished Request
+2018-10-17 17:04:59,931 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/e17f103f-61c9-484f-842b-25d9b9baa949/element {"using": "id", "value": "com.seuic.kysy:id/btn_setting", "sessionId": "e17f103f-61c9-484f-842b-25d9b9baa949"}
+2018-10-17 17:05:00,356 - DEBUG----  Finished Request
+2018-10-17 17:05:00,356 - DEBUG----  GET http://127.0.0.1:4723/wd/hub/session/e17f103f-61c9-484f-842b-25d9b9baa949/element/1/displayed {"id": "1", "sessionId": "e17f103f-61c9-484f-842b-25d9b9baa949"}
+2018-10-17 17:05:00,384 - DEBUG----  Finished Request
+2018-10-17 17:05:00,384 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/e17f103f-61c9-484f-842b-25d9b9baa949/element/1/click {"id": "1", "sessionId": "e17f103f-61c9-484f-842b-25d9b9baa949"}
+2018-10-17 17:05:00,679 - DEBUG----  Finished Request
+2018-10-17 17:05:00,679 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/e17f103f-61c9-484f-842b-25d9b9baa949/element {"using": "id", "value": "com.seuic.kysy:id/airport", "sessionId": "e17f103f-61c9-484f-842b-25d9b9baa949"}
+2018-10-17 17:05:01,198 - DEBUG----  Finished Request
+2018-10-17 17:05:01,198 - DEBUG----  GET http://127.0.0.1:4723/wd/hub/session/e17f103f-61c9-484f-842b-25d9b9baa949/element/2/displayed {"id": "2", "sessionId": "e17f103f-61c9-484f-842b-25d9b9baa949"}
+2018-10-17 17:05:01,269 - DEBUG----  Finished Request
+2018-10-17 17:05:01,270 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/e17f103f-61c9-484f-842b-25d9b9baa949/element/2/click {"id": "2", "sessionId": "e17f103f-61c9-484f-842b-25d9b9baa949"}
+2018-10-17 17:05:01,438 - DEBUG----  Finished Request
+2018-10-17 17:05:01,438 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/e17f103f-61c9-484f-842b-25d9b9baa949/element {"using": "id", "value": "com.seuic.kysy:id/rb_wifi", "sessionId": "e17f103f-61c9-484f-842b-25d9b9baa949"}
+2018-10-17 17:05:02,167 - DEBUG----  Finished Request
+2018-10-17 17:05:02,168 - DEBUG----  GET http://127.0.0.1:4723/wd/hub/session/e17f103f-61c9-484f-842b-25d9b9baa949/element/3/displayed {"id": "3", "sessionId": "e17f103f-61c9-484f-842b-25d9b9baa949"}
+2018-10-17 17:05:02,193 - DEBUG----  Finished Request
+2018-10-17 17:05:02,193 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/e17f103f-61c9-484f-842b-25d9b9baa949/element/3/click {"id": "3", "sessionId": "e17f103f-61c9-484f-842b-25d9b9baa949"}
+2018-10-17 17:05:05,331 - DEBUG----  Finished Request
+2018-10-17 17:05:05,331 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/e17f103f-61c9-484f-842b-25d9b9baa949/element {"using": "id", "value": "com.seuic.kysy:id/rb_backup", "sessionId": "e17f103f-61c9-484f-842b-25d9b9baa949"}
+2018-10-17 17:05:05,366 - DEBUG----  Finished Request
+2018-10-17 17:05:05,367 - DEBUG----  GET http://127.0.0.1:4723/wd/hub/session/e17f103f-61c9-484f-842b-25d9b9baa949/element/4/displayed {"id": "4", "sessionId": "e17f103f-61c9-484f-842b-25d9b9baa949"}
+2018-10-17 17:05:05,384 - DEBUG----  Finished Request
+2018-10-17 17:05:05,384 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/e17f103f-61c9-484f-842b-25d9b9baa949/element/4/click {"id": "4", "sessionId": "e17f103f-61c9-484f-842b-25d9b9baa949"}
+2018-10-17 17:05:05,540 - DEBUG----  Finished Request
+2018-10-17 17:05:05,540 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/e17f103f-61c9-484f-842b-25d9b9baa949/element {"using": "id", "value": "com.seuic.kysy:id/btn_save", "sessionId": "e17f103f-61c9-484f-842b-25d9b9baa949"}
+2018-10-17 17:05:06,034 - DEBUG----  Finished Request
+2018-10-17 17:05:06,034 - DEBUG----  GET http://127.0.0.1:4723/wd/hub/session/e17f103f-61c9-484f-842b-25d9b9baa949/element/5/displayed {"id": "5", "sessionId": "e17f103f-61c9-484f-842b-25d9b9baa949"}
+2018-10-17 17:05:06,046 - DEBUG----  Finished Request
+2018-10-17 17:05:06,047 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/e17f103f-61c9-484f-842b-25d9b9baa949/element/5/click {"id": "5", "sessionId": "e17f103f-61c9-484f-842b-25d9b9baa949"}
+2018-10-17 17:05:09,179 - DEBUG----  Finished Request
+2018-10-17 17:05:09,179 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/e17f103f-61c9-484f-842b-25d9b9baa949/element {"using": "id", "value": "com.seuic.kysy:id/edt_username", "sessionId": "e17f103f-61c9-484f-842b-25d9b9baa949"}
+2018-10-17 17:05:09,197 - DEBUG----  Finished Request
+2018-10-17 17:05:09,197 - DEBUG----  GET http://127.0.0.1:4723/wd/hub/session/e17f103f-61c9-484f-842b-25d9b9baa949/element/6/displayed {"id": "6", "sessionId": "e17f103f-61c9-484f-842b-25d9b9baa949"}
+2018-10-17 17:05:09,215 - DEBUG----  Finished Request
+2018-10-17 17:05:09,215 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/e17f103f-61c9-484f-842b-25d9b9baa949/element/6/value {"value": ["0", "6", "6", "5", "9", "7"], "id": "6", "sessionId": "e17f103f-61c9-484f-842b-25d9b9baa949"}
+2018-10-17 17:05:15,446 - DEBUG----  Finished Request
+2018-10-17 17:05:15,447 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/e17f103f-61c9-484f-842b-25d9b9baa949/element {"using": "id", "value": "com.seuic.kysy:id/edt_pwd", "sessionId": "e17f103f-61c9-484f-842b-25d9b9baa949"}
+2018-10-17 17:05:15,989 - DEBUG----  Finished Request
+2018-10-17 17:05:15,989 - DEBUG----  GET http://127.0.0.1:4723/wd/hub/session/e17f103f-61c9-484f-842b-25d9b9baa949/element/7/displayed {"id": "7", "sessionId": "e17f103f-61c9-484f-842b-25d9b9baa949"}
+2018-10-17 17:05:16,006 - DEBUG----  Finished Request
+2018-10-17 17:05:16,007 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/e17f103f-61c9-484f-842b-25d9b9baa949/element/7/value {"value": ["1", "1", "1", "1", "1", "1"], "id": "7", "sessionId": "e17f103f-61c9-484f-842b-25d9b9baa949"}
+2018-10-17 17:05:21,159 - DEBUG----  Finished Request
+2018-10-17 17:05:21,160 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/e17f103f-61c9-484f-842b-25d9b9baa949/element {"using": "id", "value": "com.seuic.kysy:id/btn_login", "sessionId": "e17f103f-61c9-484f-842b-25d9b9baa949"}
+2018-10-17 17:05:21,672 - DEBUG----  Finished Request
+2018-10-17 17:05:21,673 - DEBUG----  GET http://127.0.0.1:4723/wd/hub/session/e17f103f-61c9-484f-842b-25d9b9baa949/element/8/displayed {"id": "8", "sessionId": "e17f103f-61c9-484f-842b-25d9b9baa949"}
+2018-10-17 17:05:21,711 - DEBUG----  Finished Request
+2018-10-17 17:05:21,711 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/e17f103f-61c9-484f-842b-25d9b9baa949/element/8/click {"id": "8", "sessionId": "e17f103f-61c9-484f-842b-25d9b9baa949"}
+2018-10-17 17:05:22,114 - DEBUG----  Finished Request
+2018-10-17 17:05:22,115 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/e17f103f-61c9-484f-842b-25d9b9baa949/element {"using": "xpath", "value": "//android.widget.Button[@text='\u4e1a\u52a1\u533a']", "sessionId": "e17f103f-61c9-484f-842b-25d9b9baa949"}
+2018-10-17 17:05:24,188 - DEBUG----  Finished Request
+2018-10-17 17:05:24,189 - DEBUG----  GET http://127.0.0.1:4723/wd/hub/session/e17f103f-61c9-484f-842b-25d9b9baa949/element/9/displayed {"id": "9", "sessionId": "e17f103f-61c9-484f-842b-25d9b9baa949"}
+2018-10-17 17:05:24,215 - DEBUG----  Finished Request
+2018-10-17 17:05:24,216 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/e17f103f-61c9-484f-842b-25d9b9baa949/element/9/click {"id": "9", "sessionId": "e17f103f-61c9-484f-842b-25d9b9baa949"}
+2018-10-17 17:05:24,402 - DEBUG----  Finished Request
+2018-10-17 17:05:24,402 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/e17f103f-61c9-484f-842b-25d9b9baa949/element {"using": "xpath", "value": "//android.widget.Button[@text='\u5e72\u7ebf\u4efb\u52a1']", "sessionId": "e17f103f-61c9-484f-842b-25d9b9baa949"}
+2018-10-17 17:05:25,011 - DEBUG----  Finished Request
+2018-10-17 17:05:25,011 - DEBUG----  GET http://127.0.0.1:4723/wd/hub/session/e17f103f-61c9-484f-842b-25d9b9baa949/element/10/displayed {"id": "10", "sessionId": "e17f103f-61c9-484f-842b-25d9b9baa949"}
+2018-10-17 17:05:25,030 - DEBUG----  Finished Request
+2018-10-17 17:05:25,030 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/e17f103f-61c9-484f-842b-25d9b9baa949/element/10/click {"id": "10", "sessionId": "e17f103f-61c9-484f-842b-25d9b9baa949"}
+2018-10-17 17:05:25,318 - DEBUG----  Finished Request
+2018-10-17 17:05:25,320 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/e17f103f-61c9-484f-842b-25d9b9baa949/appium/app/close {"sessionId": "e17f103f-61c9-484f-842b-25d9b9baa949"}
+2018-10-17 17:05:26,541 - DEBUG----  Finished Request
+2018-10-17 17:05:26,542 - DEBUG----  DELETE http://127.0.0.1:4723/wd/hub/session/e17f103f-61c9-484f-842b-25d9b9baa949 {"sessionId": "e17f103f-61c9-484f-842b-25d9b9baa949"}
+2018-10-17 17:05:30,128 - DEBUG----  Finished Request
+2018-10-17 17:07:40,684 - INFO----  当前运行文件：E:\PycharmProjects\AppAuto\PageObject\CommonElement.py
+2018-10-17 17:07:41,707 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session {"desiredCapabilities": {"platformName": "Android", "platformVersion": "7.0", "deviceName": "0123456789ABCDEF", "appPackage": "com.seuic.kysy", "appActivity": "com.seuic.kysy.activitys.LoginActivity", "app": "E:\\PycharmProjects\\AppAuto\\App\\6.18.0928.5.apk", "noRest": true, "noSign": true}, "requiredCapabilities": {}}
+2018-10-17 17:07:59,062 - DEBUG----  Finished Request
+2018-10-17 17:07:59,063 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/c621cf81-ae8e-4094-9161-87a73c377596/timeouts/implicit_wait {"ms": 20000.0, "sessionId": "c621cf81-ae8e-4094-9161-87a73c377596"}
+2018-10-17 17:07:59,069 - DEBUG----  Finished Request
+2018-10-17 17:07:59,069 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/c621cf81-ae8e-4094-9161-87a73c377596/element {"using": "id", "value": "com.seuic.kysy:id/btn_setting", "sessionId": "c621cf81-ae8e-4094-9161-87a73c377596"}
+2018-10-17 17:07:59,583 - DEBUG----  Finished Request
+2018-10-17 17:07:59,584 - DEBUG----  GET http://127.0.0.1:4723/wd/hub/session/c621cf81-ae8e-4094-9161-87a73c377596/element/1/displayed {"id": "1", "sessionId": "c621cf81-ae8e-4094-9161-87a73c377596"}
+2018-10-17 17:07:59,605 - DEBUG----  Finished Request
+2018-10-17 17:07:59,605 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/c621cf81-ae8e-4094-9161-87a73c377596/element/1/click {"id": "1", "sessionId": "c621cf81-ae8e-4094-9161-87a73c377596"}
+2018-10-17 17:07:59,903 - DEBUG----  Finished Request
+2018-10-17 17:07:59,903 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/c621cf81-ae8e-4094-9161-87a73c377596/element {"using": "id", "value": "com.seuic.kysy:id/airport", "sessionId": "c621cf81-ae8e-4094-9161-87a73c377596"}
+2018-10-17 17:08:00,437 - DEBUG----  Finished Request
+2018-10-17 17:08:00,437 - DEBUG----  GET http://127.0.0.1:4723/wd/hub/session/c621cf81-ae8e-4094-9161-87a73c377596/element/2/displayed {"id": "2", "sessionId": "c621cf81-ae8e-4094-9161-87a73c377596"}
+2018-10-17 17:08:00,463 - DEBUG----  Finished Request
+2018-10-17 17:08:00,463 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/c621cf81-ae8e-4094-9161-87a73c377596/element/2/click {"id": "2", "sessionId": "c621cf81-ae8e-4094-9161-87a73c377596"}
+2018-10-17 17:08:00,610 - DEBUG----  Finished Request
+2018-10-17 17:08:00,610 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/c621cf81-ae8e-4094-9161-87a73c377596/element {"using": "id", "value": "com.seuic.kysy:id/rb_wifi", "sessionId": "c621cf81-ae8e-4094-9161-87a73c377596"}
+2018-10-17 17:08:01,301 - DEBUG----  Finished Request
+2018-10-17 17:08:01,301 - DEBUG----  GET http://127.0.0.1:4723/wd/hub/session/c621cf81-ae8e-4094-9161-87a73c377596/element/3/displayed {"id": "3", "sessionId": "c621cf81-ae8e-4094-9161-87a73c377596"}
+2018-10-17 17:08:01,368 - DEBUG----  Finished Request
+2018-10-17 17:08:01,369 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/c621cf81-ae8e-4094-9161-87a73c377596/element/3/click {"id": "3", "sessionId": "c621cf81-ae8e-4094-9161-87a73c377596"}
+2018-10-17 17:08:04,504 - DEBUG----  Finished Request
+2018-10-17 17:08:04,504 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/c621cf81-ae8e-4094-9161-87a73c377596/element {"using": "id", "value": "com.seuic.kysy:id/rb_backup", "sessionId": "c621cf81-ae8e-4094-9161-87a73c377596"}
+2018-10-17 17:08:04,530 - DEBUG----  Finished Request
+2018-10-17 17:08:04,531 - DEBUG----  GET http://127.0.0.1:4723/wd/hub/session/c621cf81-ae8e-4094-9161-87a73c377596/element/4/displayed {"id": "4", "sessionId": "c621cf81-ae8e-4094-9161-87a73c377596"}
+2018-10-17 17:08:04,551 - DEBUG----  Finished Request
+2018-10-17 17:08:04,551 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/c621cf81-ae8e-4094-9161-87a73c377596/element/4/click {"id": "4", "sessionId": "c621cf81-ae8e-4094-9161-87a73c377596"}
+2018-10-17 17:08:04,707 - DEBUG----  Finished Request
+2018-10-17 17:08:04,707 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/c621cf81-ae8e-4094-9161-87a73c377596/element {"using": "id", "value": "com.seuic.kysy:id/btn_save", "sessionId": "c621cf81-ae8e-4094-9161-87a73c377596"}
+2018-10-17 17:08:05,241 - DEBUG----  Finished Request
+2018-10-17 17:08:05,242 - DEBUG----  GET http://127.0.0.1:4723/wd/hub/session/c621cf81-ae8e-4094-9161-87a73c377596/element/5/displayed {"id": "5", "sessionId": "c621cf81-ae8e-4094-9161-87a73c377596"}
+2018-10-17 17:08:05,257 - DEBUG----  Finished Request
+2018-10-17 17:08:05,258 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/c621cf81-ae8e-4094-9161-87a73c377596/element/5/click {"id": "5", "sessionId": "c621cf81-ae8e-4094-9161-87a73c377596"}
+2018-10-17 17:08:08,390 - DEBUG----  Finished Request
+2018-10-17 17:08:08,391 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/c621cf81-ae8e-4094-9161-87a73c377596/element {"using": "id", "value": "com.seuic.kysy:id/edt_username", "sessionId": "c621cf81-ae8e-4094-9161-87a73c377596"}
+2018-10-17 17:08:08,416 - DEBUG----  Finished Request
+2018-10-17 17:08:08,416 - DEBUG----  GET http://127.0.0.1:4723/wd/hub/session/c621cf81-ae8e-4094-9161-87a73c377596/element/6/displayed {"id": "6", "sessionId": "c621cf81-ae8e-4094-9161-87a73c377596"}
+2018-10-17 17:08:08,441 - DEBUG----  Finished Request
+2018-10-17 17:08:08,442 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/c621cf81-ae8e-4094-9161-87a73c377596/element/6/value {"value": ["0", "6", "6", "5", "9", "7"], "id": "6", "sessionId": "c621cf81-ae8e-4094-9161-87a73c377596"}
+2018-10-17 17:08:14,547 - DEBUG----  Finished Request
+2018-10-17 17:08:14,548 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/c621cf81-ae8e-4094-9161-87a73c377596/element {"using": "id", "value": "com.seuic.kysy:id/edt_pwd", "sessionId": "c621cf81-ae8e-4094-9161-87a73c377596"}
+2018-10-17 17:08:15,109 - DEBUG----  Finished Request
+2018-10-17 17:08:15,109 - DEBUG----  GET http://127.0.0.1:4723/wd/hub/session/c621cf81-ae8e-4094-9161-87a73c377596/element/7/displayed {"id": "7", "sessionId": "c621cf81-ae8e-4094-9161-87a73c377596"}
+2018-10-17 17:08:15,134 - DEBUG----  Finished Request
+2018-10-17 17:08:15,135 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/c621cf81-ae8e-4094-9161-87a73c377596/element/7/value {"value": ["1", "1", "1", "1", "1", "1"], "id": "7", "sessionId": "c621cf81-ae8e-4094-9161-87a73c377596"}
+2018-10-17 17:08:20,118 - DEBUG----  Finished Request
+2018-10-17 17:08:20,119 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/c621cf81-ae8e-4094-9161-87a73c377596/element {"using": "id", "value": "com.seuic.kysy:id/btn_login", "sessionId": "c621cf81-ae8e-4094-9161-87a73c377596"}
+2018-10-17 17:08:20,691 - DEBUG----  Finished Request
+2018-10-17 17:08:20,692 - DEBUG----  GET http://127.0.0.1:4723/wd/hub/session/c621cf81-ae8e-4094-9161-87a73c377596/element/8/displayed {"id": "8", "sessionId": "c621cf81-ae8e-4094-9161-87a73c377596"}
+2018-10-17 17:08:20,726 - DEBUG----  Finished Request
+2018-10-17 17:08:20,726 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/c621cf81-ae8e-4094-9161-87a73c377596/element/8/click {"id": "8", "sessionId": "c621cf81-ae8e-4094-9161-87a73c377596"}
+2018-10-17 17:08:21,131 - DEBUG----  Finished Request
+2018-10-17 17:08:21,132 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/c621cf81-ae8e-4094-9161-87a73c377596/element {"using": "xpath", "value": "//android.widget.Button[@text='\u4e1a\u52a1\u533a']", "sessionId": "c621cf81-ae8e-4094-9161-87a73c377596"}
+2018-10-17 17:08:23,050 - DEBUG----  Finished Request
+2018-10-17 17:08:23,051 - DEBUG----  GET http://127.0.0.1:4723/wd/hub/session/c621cf81-ae8e-4094-9161-87a73c377596/element/9/displayed {"id": "9", "sessionId": "c621cf81-ae8e-4094-9161-87a73c377596"}
+2018-10-17 17:08:23,074 - DEBUG----  Finished Request
+2018-10-17 17:08:23,074 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/c621cf81-ae8e-4094-9161-87a73c377596/element/9/click {"id": "9", "sessionId": "c621cf81-ae8e-4094-9161-87a73c377596"}
+2018-10-17 17:08:23,261 - DEBUG----  Finished Request
+2018-10-17 17:08:23,261 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/c621cf81-ae8e-4094-9161-87a73c377596/element {"using": "xpath", "value": "//android.widget.Button[@text='\u5e72\u7ebf\u4efb\u52a1']", "sessionId": "c621cf81-ae8e-4094-9161-87a73c377596"}
+2018-10-17 17:08:23,925 - DEBUG----  Finished Request
+2018-10-17 17:08:23,926 - DEBUG----  GET http://127.0.0.1:4723/wd/hub/session/c621cf81-ae8e-4094-9161-87a73c377596/element/10/displayed {"id": "10", "sessionId": "c621cf81-ae8e-4094-9161-87a73c377596"}
+2018-10-17 17:08:23,944 - DEBUG----  Finished Request
+2018-10-17 17:08:23,944 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/c621cf81-ae8e-4094-9161-87a73c377596/element/10/click {"id": "10", "sessionId": "c621cf81-ae8e-4094-9161-87a73c377596"}
+2018-10-17 17:08:24,219 - DEBUG----  Finished Request
+2018-10-17 17:08:24,220 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/c621cf81-ae8e-4094-9161-87a73c377596/element {"using": "id", "value": "com.seuic.kysy:id/iv_not_task_add", "sessionId": "c621cf81-ae8e-4094-9161-87a73c377596"}
+2018-10-17 17:08:32,601 - DEBUG----  Finished Request
+2018-10-17 17:08:32,601 - DEBUG----  GET http://127.0.0.1:4723/wd/hub/session/c621cf81-ae8e-4094-9161-87a73c377596/element/11/displayed {"id": "11", "sessionId": "c621cf81-ae8e-4094-9161-87a73c377596"}
+2018-10-17 17:08:32,662 - DEBUG----  Finished Request
+2018-10-17 17:08:32,663 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/c621cf81-ae8e-4094-9161-87a73c377596/element/11/click {"id": "11", "sessionId": "c621cf81-ae8e-4094-9161-87a73c377596"}
+2018-10-17 17:08:33,075 - DEBUG----  Finished Request
+2018-10-17 17:08:33,075 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/c621cf81-ae8e-4094-9161-87a73c377596/element {"using": "id", "value": "com.seuic.kysy:id/et_oddNumber", "sessionId": "c621cf81-ae8e-4094-9161-87a73c377596"}
+2018-10-17 17:08:34,260 - DEBUG----  Finished Request
+2018-10-17 17:08:34,261 - DEBUG----  GET http://127.0.0.1:4723/wd/hub/session/c621cf81-ae8e-4094-9161-87a73c377596/element/12/displayed {"id": "12", "sessionId": "c621cf81-ae8e-4094-9161-87a73c377596"}
+2018-10-17 17:08:34,300 - DEBUG----  Finished Request
+2018-10-17 17:08:34,300 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/c621cf81-ae8e-4094-9161-87a73c377596/element/12/clear {"id": "12", "sessionId": "c621cf81-ae8e-4094-9161-87a73c377596"}
+2018-10-17 17:08:42,178 - DEBUG----  Finished Request
+2018-10-17 17:08:42,178 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/c621cf81-ae8e-4094-9161-87a73c377596/element/12/click {"id": "12", "sessionId": "c621cf81-ae8e-4094-9161-87a73c377596"}
+2018-10-17 17:08:45,318 - DEBUG----  Finished Request
+2018-10-17 17:08:45,319 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/c621cf81-ae8e-4094-9161-87a73c377596/element/12/value {"value": ["1", "0", "0", "8", "6", "8", "8", "8", "1", "5", "5", "9"], "id": "12", "sessionId": "c621cf81-ae8e-4094-9161-87a73c377596"}
+2018-10-17 17:08:50,588 - DEBUG----  Finished Request
+2018-10-17 17:08:50,588 - INFO----  已输入运单号：100868881559
+2018-10-17 17:08:50,588 - DEBUG----  GET http://127.0.0.1:4723/wd/hub/session/c621cf81-ae8e-4094-9161-87a73c377596/element/12/text {"id": "12", "sessionId": "c621cf81-ae8e-4094-9161-87a73c377596"}
+2018-10-17 17:08:51,100 - DEBUG----  Finished Request
+2018-10-17 17:08:51,100 - INFO----  输入的运单号正确
+2018-10-17 17:08:51,100 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/c621cf81-ae8e-4094-9161-87a73c377596/appium/app/close {"sessionId": "c621cf81-ae8e-4094-9161-87a73c377596"}
+2018-10-17 17:08:52,280 - DEBUG----  Finished Request
+2018-10-17 17:08:52,281 - DEBUG----  DELETE http://127.0.0.1:4723/wd/hub/session/c621cf81-ae8e-4094-9161-87a73c377596 {"sessionId": "c621cf81-ae8e-4094-9161-87a73c377596"}
+2018-10-17 17:08:55,942 - DEBUG----  Finished Request
+2018-10-17 17:20:52,830 - INFO----  当前运行文件：E:\PycharmProjects\AppAuto\PageObject\CommonElement.py
+2018-10-17 17:20:53,863 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session {"desiredCapabilities": {"platformName": "Android", "platformVersion": "7.0", "deviceName": "0123456789ABCDEF", "appPackage": "com.seuic.kysy", "appActivity": "com.seuic.kysy.activitys.LoginActivity", "app": "E:\\PycharmProjects\\AppAuto\\App\\6.18.1015.5_input2.apk", "noRest": true, "noSign": true}, "requiredCapabilities": {}}
+2018-10-17 17:21:11,525 - DEBUG----  Finished Request
+2018-10-17 17:21:11,525 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/82ca5022-0189-456d-8fbc-9c743a371094/timeouts/implicit_wait {"ms": 20000.0, "sessionId": "82ca5022-0189-456d-8fbc-9c743a371094"}
+2018-10-17 17:21:11,534 - DEBUG----  Finished Request
+2018-10-17 17:21:11,534 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/82ca5022-0189-456d-8fbc-9c743a371094/element {"using": "id", "value": "com.seuic.kysy:id/btn_setting", "sessionId": "82ca5022-0189-456d-8fbc-9c743a371094"}
+2018-10-17 17:21:12,004 - DEBUG----  Finished Request
+2018-10-17 17:21:12,004 - DEBUG----  GET http://127.0.0.1:4723/wd/hub/session/82ca5022-0189-456d-8fbc-9c743a371094/element/1/displayed {"id": "1", "sessionId": "82ca5022-0189-456d-8fbc-9c743a371094"}
+2018-10-17 17:21:12,025 - DEBUG----  Finished Request
+2018-10-17 17:21:12,025 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/82ca5022-0189-456d-8fbc-9c743a371094/element/1/click {"id": "1", "sessionId": "82ca5022-0189-456d-8fbc-9c743a371094"}
+2018-10-17 17:21:12,325 - DEBUG----  Finished Request
+2018-10-17 17:21:12,326 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/82ca5022-0189-456d-8fbc-9c743a371094/element {"using": "id", "value": "com.seuic.kysy:id/airport", "sessionId": "82ca5022-0189-456d-8fbc-9c743a371094"}
+2018-10-17 17:21:12,871 - DEBUG----  Finished Request
+2018-10-17 17:21:12,871 - DEBUG----  GET http://127.0.0.1:4723/wd/hub/session/82ca5022-0189-456d-8fbc-9c743a371094/element/2/displayed {"id": "2", "sessionId": "82ca5022-0189-456d-8fbc-9c743a371094"}
+2018-10-17 17:21:12,889 - DEBUG----  Finished Request
+2018-10-17 17:21:12,889 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/82ca5022-0189-456d-8fbc-9c743a371094/element/2/click {"id": "2", "sessionId": "82ca5022-0189-456d-8fbc-9c743a371094"}
+2018-10-17 17:21:13,038 - DEBUG----  Finished Request
+2018-10-17 17:21:13,038 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/82ca5022-0189-456d-8fbc-9c743a371094/element {"using": "id", "value": "com.seuic.kysy:id/rb_wifi", "sessionId": "82ca5022-0189-456d-8fbc-9c743a371094"}
+2018-10-17 17:21:13,744 - DEBUG----  Finished Request
+2018-10-17 17:21:13,745 - DEBUG----  GET http://127.0.0.1:4723/wd/hub/session/82ca5022-0189-456d-8fbc-9c743a371094/element/3/displayed {"id": "3", "sessionId": "82ca5022-0189-456d-8fbc-9c743a371094"}
+2018-10-17 17:21:13,807 - DEBUG----  Finished Request
+2018-10-17 17:21:13,807 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/82ca5022-0189-456d-8fbc-9c743a371094/element/3/click {"id": "3", "sessionId": "82ca5022-0189-456d-8fbc-9c743a371094"}
+2018-10-17 17:21:16,937 - DEBUG----  Finished Request
+2018-10-17 17:21:16,937 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/82ca5022-0189-456d-8fbc-9c743a371094/element {"using": "id", "value": "com.seuic.kysy:id/rb_backup", "sessionId": "82ca5022-0189-456d-8fbc-9c743a371094"}
+2018-10-17 17:21:16,961 - DEBUG----  Finished Request
+2018-10-17 17:21:16,962 - DEBUG----  GET http://127.0.0.1:4723/wd/hub/session/82ca5022-0189-456d-8fbc-9c743a371094/element/4/displayed {"id": "4", "sessionId": "82ca5022-0189-456d-8fbc-9c743a371094"}
+2018-10-17 17:21:16,997 - DEBUG----  Finished Request
+2018-10-17 17:21:16,998 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/82ca5022-0189-456d-8fbc-9c743a371094/element/4/click {"id": "4", "sessionId": "82ca5022-0189-456d-8fbc-9c743a371094"}
+2018-10-17 17:21:17,152 - DEBUG----  Finished Request
+2018-10-17 17:21:17,152 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/82ca5022-0189-456d-8fbc-9c743a371094/element {"using": "id", "value": "com.seuic.kysy:id/btn_save", "sessionId": "82ca5022-0189-456d-8fbc-9c743a371094"}
+2018-10-17 17:21:17,652 - DEBUG----  Finished Request
+2018-10-17 17:21:17,653 - DEBUG----  GET http://127.0.0.1:4723/wd/hub/session/82ca5022-0189-456d-8fbc-9c743a371094/element/5/displayed {"id": "5", "sessionId": "82ca5022-0189-456d-8fbc-9c743a371094"}
+2018-10-17 17:21:17,696 - DEBUG----  Finished Request
+2018-10-17 17:21:17,696 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/82ca5022-0189-456d-8fbc-9c743a371094/element/5/click {"id": "5", "sessionId": "82ca5022-0189-456d-8fbc-9c743a371094"}
+2018-10-17 17:21:20,824 - DEBUG----  Finished Request
+2018-10-17 17:21:20,825 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/82ca5022-0189-456d-8fbc-9c743a371094/element {"using": "id", "value": "com.seuic.kysy:id/edt_username", "sessionId": "82ca5022-0189-456d-8fbc-9c743a371094"}
+2018-10-17 17:21:20,851 - DEBUG----  Finished Request
+2018-10-17 17:21:20,852 - DEBUG----  GET http://127.0.0.1:4723/wd/hub/session/82ca5022-0189-456d-8fbc-9c743a371094/element/6/displayed {"id": "6", "sessionId": "82ca5022-0189-456d-8fbc-9c743a371094"}
+2018-10-17 17:21:20,876 - DEBUG----  Finished Request
+2018-10-17 17:21:20,876 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/82ca5022-0189-456d-8fbc-9c743a371094/element/6/value {"value": ["0", "6", "6", "5", "9", "7"], "id": "6", "sessionId": "82ca5022-0189-456d-8fbc-9c743a371094"}
+2018-10-17 17:21:27,042 - DEBUG----  Finished Request
+2018-10-17 17:21:27,042 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/82ca5022-0189-456d-8fbc-9c743a371094/element {"using": "id", "value": "com.seuic.kysy:id/edt_pwd", "sessionId": "82ca5022-0189-456d-8fbc-9c743a371094"}
+2018-10-17 17:21:27,564 - DEBUG----  Finished Request
+2018-10-17 17:21:27,565 - DEBUG----  GET http://127.0.0.1:4723/wd/hub/session/82ca5022-0189-456d-8fbc-9c743a371094/element/7/displayed {"id": "7", "sessionId": "82ca5022-0189-456d-8fbc-9c743a371094"}
+2018-10-17 17:21:27,605 - DEBUG----  Finished Request
+2018-10-17 17:21:27,605 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/82ca5022-0189-456d-8fbc-9c743a371094/element/7/value {"value": ["1", "1", "1", "1", "1", "1"], "id": "7", "sessionId": "82ca5022-0189-456d-8fbc-9c743a371094"}
+2018-10-17 17:21:32,654 - DEBUG----  Finished Request
+2018-10-17 17:21:32,654 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/82ca5022-0189-456d-8fbc-9c743a371094/element {"using": "id", "value": "com.seuic.kysy:id/btn_login", "sessionId": "82ca5022-0189-456d-8fbc-9c743a371094"}
+2018-10-17 17:21:33,160 - DEBUG----  Finished Request
+2018-10-17 17:21:33,160 - DEBUG----  GET http://127.0.0.1:4723/wd/hub/session/82ca5022-0189-456d-8fbc-9c743a371094/element/8/displayed {"id": "8", "sessionId": "82ca5022-0189-456d-8fbc-9c743a371094"}
+2018-10-17 17:21:33,175 - DEBUG----  Finished Request
+2018-10-17 17:21:33,175 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/82ca5022-0189-456d-8fbc-9c743a371094/element/8/click {"id": "8", "sessionId": "82ca5022-0189-456d-8fbc-9c743a371094"}
+2018-10-17 17:21:33,535 - DEBUG----  Finished Request
+2018-10-17 17:21:33,535 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/82ca5022-0189-456d-8fbc-9c743a371094/element {"using": "xpath", "value": "//android.widget.Button[@text='\u4e1a\u52a1\u533a']", "sessionId": "82ca5022-0189-456d-8fbc-9c743a371094"}
+2018-10-17 17:21:35,415 - DEBUG----  Finished Request
+2018-10-17 17:21:35,415 - DEBUG----  GET http://127.0.0.1:4723/wd/hub/session/82ca5022-0189-456d-8fbc-9c743a371094/element/9/displayed {"id": "9", "sessionId": "82ca5022-0189-456d-8fbc-9c743a371094"}
+2018-10-17 17:21:35,430 - DEBUG----  Finished Request
+2018-10-17 17:21:35,430 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/82ca5022-0189-456d-8fbc-9c743a371094/element/9/click {"id": "9", "sessionId": "82ca5022-0189-456d-8fbc-9c743a371094"}
+2018-10-17 17:21:35,622 - DEBUG----  Finished Request
+2018-10-17 17:21:35,622 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/82ca5022-0189-456d-8fbc-9c743a371094/element {"using": "xpath", "value": "//android.widget.Button[@text='\u5e72\u7ebf\u4efb\u52a1']", "sessionId": "82ca5022-0189-456d-8fbc-9c743a371094"}
+2018-10-17 17:21:36,275 - DEBUG----  Finished Request
+2018-10-17 17:21:36,276 - DEBUG----  GET http://127.0.0.1:4723/wd/hub/session/82ca5022-0189-456d-8fbc-9c743a371094/element/10/displayed {"id": "10", "sessionId": "82ca5022-0189-456d-8fbc-9c743a371094"}
+2018-10-17 17:21:36,302 - DEBUG----  Finished Request
+2018-10-17 17:21:36,303 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/82ca5022-0189-456d-8fbc-9c743a371094/element/10/click {"id": "10", "sessionId": "82ca5022-0189-456d-8fbc-9c743a371094"}
+2018-10-17 17:21:36,579 - DEBUG----  Finished Request
+2018-10-17 17:21:36,579 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/82ca5022-0189-456d-8fbc-9c743a371094/element {"using": "id", "value": "com.seuic.kysy:id/iv_not_task_add", "sessionId": "82ca5022-0189-456d-8fbc-9c743a371094"}
+2018-10-17 17:21:37,581 - DEBUG----  Finished Request
+2018-10-17 17:21:37,581 - DEBUG----  GET http://127.0.0.1:4723/wd/hub/session/82ca5022-0189-456d-8fbc-9c743a371094/element/11/displayed {"id": "11", "sessionId": "82ca5022-0189-456d-8fbc-9c743a371094"}
+2018-10-17 17:21:37,612 - DEBUG----  Finished Request
+2018-10-17 17:21:37,612 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/82ca5022-0189-456d-8fbc-9c743a371094/element/11/click {"id": "11", "sessionId": "82ca5022-0189-456d-8fbc-9c743a371094"}
+2018-10-17 17:21:40,757 - DEBUG----  Finished Request
+2018-10-17 17:21:40,758 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/82ca5022-0189-456d-8fbc-9c743a371094/element {"using": "id", "value": "com.seuic.kysy:id/et_oddNumber", "sessionId": "82ca5022-0189-456d-8fbc-9c743a371094"}
+2018-10-17 17:21:40,812 - DEBUG----  Finished Request
+2018-10-17 17:21:40,812 - DEBUG----  GET http://127.0.0.1:4723/wd/hub/session/82ca5022-0189-456d-8fbc-9c743a371094/element/12/displayed {"id": "12", "sessionId": "82ca5022-0189-456d-8fbc-9c743a371094"}
+2018-10-17 17:21:40,839 - DEBUG----  Finished Request
+2018-10-17 17:21:40,839 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/82ca5022-0189-456d-8fbc-9c743a371094/element/12/clear {"id": "12", "sessionId": "82ca5022-0189-456d-8fbc-9c743a371094"}
+2018-10-17 17:21:48,671 - DEBUG----  Finished Request
+2018-10-17 17:21:48,672 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/82ca5022-0189-456d-8fbc-9c743a371094/element/12/click {"id": "12", "sessionId": "82ca5022-0189-456d-8fbc-9c743a371094"}
+2018-10-17 17:21:51,823 - DEBUG----  Finished Request
+2018-10-17 17:21:51,824 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/82ca5022-0189-456d-8fbc-9c743a371094/element/12/value {"value": ["1", "0", "0", "8", "6", "8", "8", "8", "1", "5", "5", "9"], "id": "12", "sessionId": "82ca5022-0189-456d-8fbc-9c743a371094"}
+2018-10-17 17:21:57,752 - DEBUG----  Finished Request
+2018-10-17 17:21:57,752 - INFO----  已输入运单号：100868881559
+2018-10-17 17:21:57,753 - DEBUG----  GET http://127.0.0.1:4723/wd/hub/session/82ca5022-0189-456d-8fbc-9c743a371094/element/12/text {"id": "12", "sessionId": "82ca5022-0189-456d-8fbc-9c743a371094"}
+2018-10-17 17:21:58,362 - DEBUG----  Finished Request
+2018-10-17 17:21:58,363 - INFO----  输入的运单号正确
+2018-10-17 17:21:58,363 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/82ca5022-0189-456d-8fbc-9c743a371094/appium/app/close {"sessionId": "82ca5022-0189-456d-8fbc-9c743a371094"}
+2018-10-17 17:21:59,749 - DEBUG----  Finished Request
+2018-10-17 17:21:59,750 - DEBUG----  DELETE http://127.0.0.1:4723/wd/hub/session/82ca5022-0189-456d-8fbc-9c743a371094 {"sessionId": "82ca5022-0189-456d-8fbc-9c743a371094"}
+2018-10-17 17:22:03,474 - DEBUG----  Finished Request
+2018-10-17 17:22:53,974 - INFO----  当前运行文件：E:\PycharmProjects\AppAuto\PageObject\CommonElement.py
+2018-10-17 17:22:55,012 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session {"desiredCapabilities": {"platformName": "Android", "platformVersion": "7.0", "deviceName": "0123456789ABCDEF", "appPackage": "com.seuic.kysy", "appActivity": "com.seuic.kysy.activitys.LoginActivity", "app": "E:\\PycharmProjects\\AppAuto\\App\\6.18.1015.5_input2.apk", "noRest": true, "noSign": true}, "requiredCapabilities": {}}
+2018-10-17 17:23:12,275 - DEBUG----  Finished Request
+2018-10-17 17:23:12,275 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/06db03db-7207-4e3b-a09b-ae7bac1dc88e/timeouts/implicit_wait {"ms": 20000.0, "sessionId": "06db03db-7207-4e3b-a09b-ae7bac1dc88e"}
+2018-10-17 17:23:12,284 - DEBUG----  Finished Request
+2018-10-17 17:23:12,284 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/06db03db-7207-4e3b-a09b-ae7bac1dc88e/element {"using": "id", "value": "com.seuic.kysy:id/btn_setting", "sessionId": "06db03db-7207-4e3b-a09b-ae7bac1dc88e"}
+2018-10-17 17:23:12,796 - DEBUG----  Finished Request
+2018-10-17 17:23:12,796 - DEBUG----  GET http://127.0.0.1:4723/wd/hub/session/06db03db-7207-4e3b-a09b-ae7bac1dc88e/element/1/displayed {"id": "1", "sessionId": "06db03db-7207-4e3b-a09b-ae7bac1dc88e"}
+2018-10-17 17:23:12,812 - DEBUG----  Finished Request
+2018-10-17 17:23:12,812 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/06db03db-7207-4e3b-a09b-ae7bac1dc88e/element/1/click {"id": "1", "sessionId": "06db03db-7207-4e3b-a09b-ae7bac1dc88e"}
+2018-10-17 17:23:13,114 - DEBUG----  Finished Request
+2018-10-17 17:23:13,114 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/06db03db-7207-4e3b-a09b-ae7bac1dc88e/element {"using": "id", "value": "com.seuic.kysy:id/airport", "sessionId": "06db03db-7207-4e3b-a09b-ae7bac1dc88e"}
+2018-10-17 17:23:13,647 - DEBUG----  Finished Request
+2018-10-17 17:23:13,648 - DEBUG----  GET http://127.0.0.1:4723/wd/hub/session/06db03db-7207-4e3b-a09b-ae7bac1dc88e/element/2/displayed {"id": "2", "sessionId": "06db03db-7207-4e3b-a09b-ae7bac1dc88e"}
+2018-10-17 17:23:13,663 - DEBUG----  Finished Request
+2018-10-17 17:23:13,663 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/06db03db-7207-4e3b-a09b-ae7bac1dc88e/element/2/click {"id": "2", "sessionId": "06db03db-7207-4e3b-a09b-ae7bac1dc88e"}
+2018-10-17 17:23:13,812 - DEBUG----  Finished Request
+2018-10-17 17:23:13,813 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/06db03db-7207-4e3b-a09b-ae7bac1dc88e/element {"using": "id", "value": "com.seuic.kysy:id/rb_wifi", "sessionId": "06db03db-7207-4e3b-a09b-ae7bac1dc88e"}
+2018-10-17 17:23:14,526 - DEBUG----  Finished Request
+2018-10-17 17:23:14,526 - DEBUG----  GET http://127.0.0.1:4723/wd/hub/session/06db03db-7207-4e3b-a09b-ae7bac1dc88e/element/3/displayed {"id": "3", "sessionId": "06db03db-7207-4e3b-a09b-ae7bac1dc88e"}
+2018-10-17 17:23:14,601 - DEBUG----  Finished Request
+2018-10-17 17:23:14,601 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/06db03db-7207-4e3b-a09b-ae7bac1dc88e/element/3/click {"id": "3", "sessionId": "06db03db-7207-4e3b-a09b-ae7bac1dc88e"}
+2018-10-17 17:23:17,724 - DEBUG----  Finished Request
+2018-10-17 17:23:17,724 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/06db03db-7207-4e3b-a09b-ae7bac1dc88e/element {"using": "id", "value": "com.seuic.kysy:id/rb_backup", "sessionId": "06db03db-7207-4e3b-a09b-ae7bac1dc88e"}
+2018-10-17 17:23:17,747 - DEBUG----  Finished Request
+2018-10-17 17:23:17,747 - DEBUG----  GET http://127.0.0.1:4723/wd/hub/session/06db03db-7207-4e3b-a09b-ae7bac1dc88e/element/4/displayed {"id": "4", "sessionId": "06db03db-7207-4e3b-a09b-ae7bac1dc88e"}
+2018-10-17 17:23:17,762 - DEBUG----  Finished Request
+2018-10-17 17:23:17,763 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/06db03db-7207-4e3b-a09b-ae7bac1dc88e/element/4/click {"id": "4", "sessionId": "06db03db-7207-4e3b-a09b-ae7bac1dc88e"}
+2018-10-17 17:23:17,920 - DEBUG----  Finished Request
+2018-10-17 17:23:17,920 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/06db03db-7207-4e3b-a09b-ae7bac1dc88e/element {"using": "id", "value": "com.seuic.kysy:id/btn_save", "sessionId": "06db03db-7207-4e3b-a09b-ae7bac1dc88e"}
+2018-10-17 17:23:18,404 - DEBUG----  Finished Request
+2018-10-17 17:23:18,404 - DEBUG----  GET http://127.0.0.1:4723/wd/hub/session/06db03db-7207-4e3b-a09b-ae7bac1dc88e/element/5/displayed {"id": "5", "sessionId": "06db03db-7207-4e3b-a09b-ae7bac1dc88e"}
+2018-10-17 17:23:18,433 - DEBUG----  Finished Request
+2018-10-17 17:23:18,434 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/06db03db-7207-4e3b-a09b-ae7bac1dc88e/element/5/click {"id": "5", "sessionId": "06db03db-7207-4e3b-a09b-ae7bac1dc88e"}
+2018-10-17 17:23:21,559 - DEBUG----  Finished Request
+2018-10-17 17:23:21,559 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/06db03db-7207-4e3b-a09b-ae7bac1dc88e/element {"using": "id", "value": "com.seuic.kysy:id/edt_username", "sessionId": "06db03db-7207-4e3b-a09b-ae7bac1dc88e"}
+2018-10-17 17:23:21,581 - DEBUG----  Finished Request
+2018-10-17 17:23:21,582 - DEBUG----  GET http://127.0.0.1:4723/wd/hub/session/06db03db-7207-4e3b-a09b-ae7bac1dc88e/element/6/displayed {"id": "6", "sessionId": "06db03db-7207-4e3b-a09b-ae7bac1dc88e"}
+2018-10-17 17:23:21,601 - DEBUG----  Finished Request
+2018-10-17 17:23:21,602 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/06db03db-7207-4e3b-a09b-ae7bac1dc88e/element/6/value {"value": ["0", "6", "6", "5", "9", "7"], "id": "6", "sessionId": "06db03db-7207-4e3b-a09b-ae7bac1dc88e"}
+2018-10-17 17:23:27,777 - DEBUG----  Finished Request
+2018-10-17 17:23:27,778 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/06db03db-7207-4e3b-a09b-ae7bac1dc88e/element {"using": "id", "value": "com.seuic.kysy:id/edt_pwd", "sessionId": "06db03db-7207-4e3b-a09b-ae7bac1dc88e"}
+2018-10-17 17:23:28,371 - DEBUG----  Finished Request
+2018-10-17 17:23:28,371 - DEBUG----  GET http://127.0.0.1:4723/wd/hub/session/06db03db-7207-4e3b-a09b-ae7bac1dc88e/element/7/displayed {"id": "7", "sessionId": "06db03db-7207-4e3b-a09b-ae7bac1dc88e"}
+2018-10-17 17:23:28,389 - DEBUG----  Finished Request
+2018-10-17 17:23:28,390 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/06db03db-7207-4e3b-a09b-ae7bac1dc88e/element/7/value {"value": ["1", "1", "1", "1", "1", "1"], "id": "7", "sessionId": "06db03db-7207-4e3b-a09b-ae7bac1dc88e"}
+2018-10-17 17:23:33,524 - DEBUG----  Finished Request
+2018-10-17 17:23:33,525 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/06db03db-7207-4e3b-a09b-ae7bac1dc88e/element {"using": "id", "value": "com.seuic.kysy:id/btn_login", "sessionId": "06db03db-7207-4e3b-a09b-ae7bac1dc88e"}
+2018-10-17 17:23:34,125 - DEBUG----  Finished Request
+2018-10-17 17:23:34,126 - DEBUG----  GET http://127.0.0.1:4723/wd/hub/session/06db03db-7207-4e3b-a09b-ae7bac1dc88e/element/8/displayed {"id": "8", "sessionId": "06db03db-7207-4e3b-a09b-ae7bac1dc88e"}
+2018-10-17 17:23:34,149 - DEBUG----  Finished Request
+2018-10-17 17:23:34,149 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/06db03db-7207-4e3b-a09b-ae7bac1dc88e/element/8/click {"id": "8", "sessionId": "06db03db-7207-4e3b-a09b-ae7bac1dc88e"}
+2018-10-17 17:23:34,495 - DEBUG----  Finished Request
+2018-10-17 17:23:34,495 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/06db03db-7207-4e3b-a09b-ae7bac1dc88e/element {"using": "xpath", "value": "//android.widget.Button[@text='\u4e1a\u52a1\u533a']", "sessionId": "06db03db-7207-4e3b-a09b-ae7bac1dc88e"}
+2018-10-17 17:23:36,351 - DEBUG----  Finished Request
+2018-10-17 17:23:36,351 - DEBUG----  GET http://127.0.0.1:4723/wd/hub/session/06db03db-7207-4e3b-a09b-ae7bac1dc88e/element/9/displayed {"id": "9", "sessionId": "06db03db-7207-4e3b-a09b-ae7bac1dc88e"}
+2018-10-17 17:23:36,419 - DEBUG----  Finished Request
+2018-10-17 17:23:36,420 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/06db03db-7207-4e3b-a09b-ae7bac1dc88e/element/9/click {"id": "9", "sessionId": "06db03db-7207-4e3b-a09b-ae7bac1dc88e"}
+2018-10-17 17:23:36,623 - DEBUG----  Finished Request
+2018-10-17 17:23:36,623 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/06db03db-7207-4e3b-a09b-ae7bac1dc88e/element {"using": "xpath", "value": "//android.widget.Button[@text='\u5e72\u7ebf\u4efb\u52a1']", "sessionId": "06db03db-7207-4e3b-a09b-ae7bac1dc88e"}
+2018-10-17 17:23:37,278 - DEBUG----  Finished Request
+2018-10-17 17:23:37,279 - DEBUG----  GET http://127.0.0.1:4723/wd/hub/session/06db03db-7207-4e3b-a09b-ae7bac1dc88e/element/10/displayed {"id": "10", "sessionId": "06db03db-7207-4e3b-a09b-ae7bac1dc88e"}
+2018-10-17 17:23:37,303 - DEBUG----  Finished Request
+2018-10-17 17:23:37,304 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/06db03db-7207-4e3b-a09b-ae7bac1dc88e/element/10/click {"id": "10", "sessionId": "06db03db-7207-4e3b-a09b-ae7bac1dc88e"}
+2018-10-17 17:23:37,607 - DEBUG----  Finished Request
+2018-10-17 17:23:37,607 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/06db03db-7207-4e3b-a09b-ae7bac1dc88e/element {"using": "id", "value": "com.seuic.kysy:id/iv_not_task_add", "sessionId": "06db03db-7207-4e3b-a09b-ae7bac1dc88e"}
+2018-10-17 17:23:38,623 - DEBUG----  Finished Request
+2018-10-17 17:23:38,624 - DEBUG----  GET http://127.0.0.1:4723/wd/hub/session/06db03db-7207-4e3b-a09b-ae7bac1dc88e/element/11/displayed {"id": "11", "sessionId": "06db03db-7207-4e3b-a09b-ae7bac1dc88e"}
+2018-10-17 17:23:38,653 - DEBUG----  Finished Request
+2018-10-17 17:23:38,654 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/06db03db-7207-4e3b-a09b-ae7bac1dc88e/element/11/click {"id": "11", "sessionId": "06db03db-7207-4e3b-a09b-ae7bac1dc88e"}
+2018-10-17 17:23:41,792 - DEBUG----  Finished Request
+2018-10-17 17:23:41,792 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/06db03db-7207-4e3b-a09b-ae7bac1dc88e/element {"using": "id", "value": "com.seuic.kysy:id/et_oddNumber", "sessionId": "06db03db-7207-4e3b-a09b-ae7bac1dc88e"}
+2018-10-17 17:23:41,840 - DEBUG----  Finished Request
+2018-10-17 17:23:41,840 - DEBUG----  GET http://127.0.0.1:4723/wd/hub/session/06db03db-7207-4e3b-a09b-ae7bac1dc88e/element/12/displayed {"id": "12", "sessionId": "06db03db-7207-4e3b-a09b-ae7bac1dc88e"}
+2018-10-17 17:23:41,874 - DEBUG----  Finished Request
+2018-10-17 17:23:41,874 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/06db03db-7207-4e3b-a09b-ae7bac1dc88e/element/12/clear {"id": "12", "sessionId": "06db03db-7207-4e3b-a09b-ae7bac1dc88e"}
+2018-10-17 17:23:49,447 - DEBUG----  Finished Request
+2018-10-17 17:23:49,447 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/06db03db-7207-4e3b-a09b-ae7bac1dc88e/element/12/click {"id": "12", "sessionId": "06db03db-7207-4e3b-a09b-ae7bac1dc88e"}
+2018-10-17 17:23:52,601 - DEBUG----  Finished Request
+2018-10-17 17:23:52,601 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/06db03db-7207-4e3b-a09b-ae7bac1dc88e/element/12/value {"value": ["1", "0", "0", "8", "6", "8", "8", "8", "1", "5", "5", "9", "\u738b", "\u660e"], "id": "12", "sessionId": "06db03db-7207-4e3b-a09b-ae7bac1dc88e"}
+2018-10-17 17:23:57,581 - DEBUG----  Finished Request
+2018-10-17 17:23:57,581 - INFO----  已输入运单号：100868881559王明
+2018-10-17 17:23:57,581 - DEBUG----  GET http://127.0.0.1:4723/wd/hub/session/06db03db-7207-4e3b-a09b-ae7bac1dc88e/element/12/text {"id": "12", "sessionId": "06db03db-7207-4e3b-a09b-ae7bac1dc88e"}
+2018-10-17 17:23:57,614 - DEBUG----  Finished Request
+2018-10-17 17:23:57,614 - INFO----  输入的运单号不正确，将使用press_keycode输入运单号
+2018-10-17 17:23:57,614 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/06db03db-7207-4e3b-a09b-ae7bac1dc88e/appium/device/press_keycode {"keycode": 8, "sessionId": "06db03db-7207-4e3b-a09b-ae7bac1dc88e"}
+2018-10-17 17:23:57,652 - DEBUG----  Finished Request
+2018-10-17 17:23:57,652 - INFO----  已输入运单号：100868881559王明
+2018-10-17 17:23:57,653 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/06db03db-7207-4e3b-a09b-ae7bac1dc88e/appium/device/press_keycode {"keycode": 7, "sessionId": "06db03db-7207-4e3b-a09b-ae7bac1dc88e"}
+2018-10-17 17:23:57,692 - DEBUG----  Finished Request
+2018-10-17 17:23:57,692 - INFO----  已输入运单号：100868881559王明
+2018-10-17 17:23:57,692 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/06db03db-7207-4e3b-a09b-ae7bac1dc88e/appium/device/press_keycode {"keycode": 7, "sessionId": "06db03db-7207-4e3b-a09b-ae7bac1dc88e"}
+2018-10-17 17:23:58,236 - DEBUG----  Finished Request
+2018-10-17 17:23:58,237 - INFO----  已输入运单号：100868881559王明
+2018-10-17 17:23:58,237 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/06db03db-7207-4e3b-a09b-ae7bac1dc88e/appium/device/press_keycode {"keycode": 15, "sessionId": "06db03db-7207-4e3b-a09b-ae7bac1dc88e"}
+2018-10-17 17:23:58,769 - DEBUG----  Finished Request
+2018-10-17 17:23:58,769 - INFO----  已输入运单号：100868881559王明
+2018-10-17 17:23:58,770 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/06db03db-7207-4e3b-a09b-ae7bac1dc88e/appium/device/press_keycode {"keycode": 13, "sessionId": "06db03db-7207-4e3b-a09b-ae7bac1dc88e"}
+2018-10-17 17:23:59,280 - DEBUG----  Finished Request
+2018-10-17 17:23:59,281 - INFO----  已输入运单号：100868881559王明
+2018-10-17 17:23:59,281 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/06db03db-7207-4e3b-a09b-ae7bac1dc88e/appium/device/press_keycode {"keycode": 15, "sessionId": "06db03db-7207-4e3b-a09b-ae7bac1dc88e"}
+2018-10-17 17:23:59,792 - DEBUG----  Finished Request
+2018-10-17 17:23:59,793 - INFO----  已输入运单号：100868881559王明
+2018-10-17 17:23:59,793 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/06db03db-7207-4e3b-a09b-ae7bac1dc88e/appium/device/press_keycode {"keycode": 15, "sessionId": "06db03db-7207-4e3b-a09b-ae7bac1dc88e"}
+2018-10-17 17:24:00,326 - DEBUG----  Finished Request
+2018-10-17 17:24:00,326 - INFO----  已输入运单号：100868881559王明
+2018-10-17 17:24:00,327 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/06db03db-7207-4e3b-a09b-ae7bac1dc88e/appium/device/press_keycode {"keycode": 15, "sessionId": "06db03db-7207-4e3b-a09b-ae7bac1dc88e"}
+2018-10-17 17:24:00,845 - DEBUG----  Finished Request
+2018-10-17 17:24:00,845 - INFO----  已输入运单号：100868881559王明
+2018-10-17 17:24:00,845 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/06db03db-7207-4e3b-a09b-ae7bac1dc88e/appium/device/press_keycode {"keycode": 8, "sessionId": "06db03db-7207-4e3b-a09b-ae7bac1dc88e"}
+2018-10-17 17:24:01,375 - DEBUG----  Finished Request
+2018-10-17 17:24:01,375 - INFO----  已输入运单号：100868881559王明
+2018-10-17 17:24:01,375 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/06db03db-7207-4e3b-a09b-ae7bac1dc88e/appium/device/press_keycode {"keycode": 12, "sessionId": "06db03db-7207-4e3b-a09b-ae7bac1dc88e"}
+2018-10-17 17:24:01,935 - DEBUG----  Finished Request
+2018-10-17 17:24:01,935 - INFO----  已输入运单号：100868881559王明
+2018-10-17 17:24:01,936 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/06db03db-7207-4e3b-a09b-ae7bac1dc88e/appium/device/press_keycode {"keycode": 12, "sessionId": "06db03db-7207-4e3b-a09b-ae7bac1dc88e"}
+2018-10-17 17:24:02,471 - DEBUG----  Finished Request
+2018-10-17 17:24:02,471 - INFO----  已输入运单号：100868881559王明
+2018-10-17 17:24:02,472 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/06db03db-7207-4e3b-a09b-ae7bac1dc88e/appium/device/press_keycode {"keycode": 16, "sessionId": "06db03db-7207-4e3b-a09b-ae7bac1dc88e"}
+2018-10-17 17:24:02,993 - DEBUG----  Finished Request
+2018-10-17 17:24:02,994 - INFO----  已输入运单号：100868881559王明
+2018-10-17 17:24:02,995 - DEBUG----  POST http://127.0.0.1:4723/wd/hub/session/06db03db-7207-4e3b-a09b-ae7bac1dc88e/appium/app/close {"sessionId": "06db03db-7207-4e3b-a09b-ae7bac1dc88e"}
+2018-10-17 17:24:04,309 - DEBUG----  Finished Request
+2018-10-17 17:24:04,310 - DEBUG----  DELETE http://127.0.0.1:4723/wd/hub/session/06db03db-7207-4e3b-a09b-ae7bac1dc88e {"sessionId": "06db03db-7207-4e3b-a09b-ae7bac1dc88e"}
+2018-10-17 17:24:08,062 - DEBUG----  Finished Request
